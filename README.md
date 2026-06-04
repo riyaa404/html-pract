@@ -5,6 +5,7 @@ Reference Resource : mdn web docs
 <br> <br>
 --- Concepts Covered ---
 <br> <br>
+
 <b>HTML</b> <br><br>
 <i>CHAPTER 1 : </i>
 <br>
@@ -17,9 +18,9 @@ Reference Resource : mdn web docs
 7.Comments <br>
 8.br Tag <br>
 9.Bold, Itatilc & Underline Tags <br>
-<br> <br>
+<br>
 
-CHAPTER 2 :
+<i> CHAPTER 2 : </i>
 <br>
 1.Inline v/s Block <br>
 2.Div and Span Element <br>
@@ -31,7 +32,7 @@ CHAPTER 2 :
 8.Understanding HTML 5 <br>
 <br> <br>
 
-CHAPTER 3 :
+ <i> CHAPTER 3 : </i>
 <br>
 1.Tables in HTML <br>
 2.Semantics in Tables <br>
@@ -44,7 +45,7 @@ CHAPTER 3 :
 8.Text Area <br>
 7.Button Element <br>
 <br> <br>
-
+<b>CSS </b> <br> <br>
 CHAPTER 4 : 
 <br>
 1.Introduction to CSS <br>
