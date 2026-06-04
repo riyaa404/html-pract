@@ -3,12 +3,8 @@ This is Web Development learning repository.
 <br> <br>
 Reference Resource : mdn web docs
 <br> <br>
---- Concepts Covered ---
 
-<br> <br>
-HTML <br><br> 
-CHAPTER 1 :
-=======
+--- Concepts Covered ---
 <br><br>
 
 <b>HTML</b> <br>
