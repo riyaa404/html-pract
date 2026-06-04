@@ -1,6 +1,7 @@
 # web-development
 This is Web Development learning repository.<br>
-Reference Resource : mdn web docs <br> <br>
+Reference Resource : mdn web docs
+<br> <br>
 
 --- Concepts Covered ---
 <br><br>
@@ -20,7 +21,7 @@ Reference Resource : mdn web docs <br> <br>
 9.Bold, Itatilc & Underline Tags <br>
 <br> <br>
 
-CHAPTER 2 :
+<i>CHAPTER 2 : </i>
 <br>
 1.Inline v/s Block <br>
 2.Div and Span Element <br>
@@ -30,9 +31,9 @@ CHAPTER 2 :
 6.HTML Entities <br>
 7.Emmets - HTML in speed<br>
 8.Understanding HTML 5 <br>
-<br> <br>
+<br>
 
-CHAPTER 3 :
+<i>CHAPTER 3 : </i>
 <br>
 1.Tables in HTML <br>
 2.Semantics in Tables <br>
@@ -46,7 +47,8 @@ CHAPTER 3 :
 7.Button Element <br>
 <br> <br>
 
-CHAPTER 4 : 
+<b>CSS </b> <br>
+<i>CHAPTER 4 : </i>
 <br>
 1.Introduction to CSS <br>
 2.Basic CSS Format <br>
