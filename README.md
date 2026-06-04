@@ -6,7 +6,7 @@ Reference Resource : mdn web docs
 --- Concepts Covered ---
 <br><br>
 
-<b> -> HTML</b> <br>
+<b> >> HTML</b> <br>
 
 <i>CHAPTER 1 : </i>
 <br>
@@ -46,7 +46,7 @@ Reference Resource : mdn web docs
 7.Button Element <br>
 <br> <br>
 
-<b>-> CSS </b>
+<b>>> CSS </b>
 <br> <br>
 <i>CHAPTER 4 : </i>
 <br>
