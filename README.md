@@ -4,9 +4,10 @@ This is Web Development learning repository.
 Reference Resource : mdn web docs
 <br> <br>
 --- Concepts Covered ---
-<br> <br>
+<br>
 
-<b>HTML</b> <br><br>
+<b>HTML</b> <br>
+
 <i>CHAPTER 1 : </i>
 <br>
 1.HTML Elements and tags <br>
@@ -18,7 +19,7 @@ Reference Resource : mdn web docs
 7.Comments <br>
 8.br Tag <br>
 9.Bold, Itatilc & Underline Tags <br>
-<br>
+
 
 <i> CHAPTER 2 : </i>
 <br>
@@ -30,9 +31,9 @@ Reference Resource : mdn web docs
 6.HTML Entities <br>
 7.Emmets - HTML in speed<br>
 8.Understanding HTML 5 <br>
-<br> <br>
 
- <i> CHAPTER 3 : </i>
+
+<i> CHAPTER 3 : </i>
 <br>
 1.Tables in HTML <br>
 2.Semantics in Tables <br>
@@ -44,8 +45,10 @@ Reference Resource : mdn web docs
 7.for, id, name and value Attributes <br>
 8.Text Area <br>
 7.Button Element <br>
-<br> <br>
-<b>CSS </b> <br> <br>
+
+
+<b>CSS</b> <br>
+
 CHAPTER 4 : 
 <br>
 1.Introduction to CSS <br>
