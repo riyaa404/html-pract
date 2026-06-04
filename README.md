@@ -1,12 +1,19 @@
 # web-development
-This is Web Development learning repository.
-<br> <br>
+This is Web Development learning repository. <br>
 Reference Resource : mdn web docs
-<br> <br>
+<br><br>
 --- Concepts Covered ---
+<<<<<<< HEAD
 <br> <br>
 HTML <br><br> 
 CHAPTER 1 :
+=======
+<br><br>
+
+<b>HTML</b> <br>
+
+<i>CHAPTER 1 : </i>
+>>>>>>> 5881eab8cc63ab89e3bb0b1185cfade903334112
 <br>
 1.HTML Elements and tags <br>
 2.Paragraph and Heading Element <br>
@@ -17,9 +24,9 @@ CHAPTER 1 :
 7.Comments <br>
 8.br Tag <br>
 9.Bold, Itatilc & Underline Tags <br>
-<br> <br>
+<br>
 
-CHAPTER 2 :
+<i> CHAPTER 2 : </i>
 <br>
 1.Inline v/s Block <br>
 2.Div and Span Element <br>
@@ -29,9 +36,9 @@ CHAPTER 2 :
 6.HTML Entities <br>
 7.Emmets - HTML in speed<br>
 8.Understanding HTML 5 <br>
-<br> <br>
+<br>
 
-CHAPTER 3 :
+<i> CHAPTER 3 : </i>
 <br>
 1.Tables in HTML <br>
 2.Semantics in Tables <br>
@@ -43,9 +50,11 @@ CHAPTER 3 :
 7.for, id, name and value Attributes <br>
 8.Text Area <br>
 7.Button Element <br>
-<br> <br>
+<br><br>
 
-CHAPTER 4 : 
+<b>CSS</b> <br>
+
+<i>CHAPTER 4 : </i>
 <br>
 1.Introduction to CSS <br>
 2.Basic CSS Format <br>
@@ -59,5 +68,5 @@ CHAPTER 4 :
 10.Line Height & Letter Spacing <br>
 11.Units in CSS (Pixel) <br>
 12.Font Family <br>
-<br> <br>
+<br>
 
