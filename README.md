@@ -5,7 +5,7 @@ Reference Resource : mdn web docs
 <br> <br>
 --- Concepts Covered ---
 <br> <br>
-HTML <br><br>
+<b>HTML</b> <br><br>
 CHAPTER 1 :
 <br>
 1.HTML Elements and tags <br>
