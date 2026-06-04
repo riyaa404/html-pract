@@ -4,7 +4,7 @@ This is Web Development learning repository.
 Reference Resource : mdn web docs
 <br> <br>
 --- Concepts Covered ---
-<br>
+<br><br>
 
 <b>HTML</b> <br>
 
@@ -45,7 +45,7 @@ Reference Resource : mdn web docs
 7.for, id, name and value Attributes <br>
 8.Text Area <br>
 7.Button Element <br>
-<br>
+<br><br>
 
 <b>CSS</b> <br>
 
