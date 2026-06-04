@@ -18,8 +18,7 @@ Reference Resource : mdn web docs
 6.Image Element <br>
 7.Comments <br>
 8.br Tag <br>
-9.Bold, Itatilc & Underline Tags <br>
-<br> <br>
+9.Bold, Itatilc & Underline Tags <br><br>
 
 <i>CHAPTER 2 : </i>
 <br>
@@ -47,7 +46,8 @@ Reference Resource : mdn web docs
 7.Button Element <br>
 <br> <br>
 
-<b>CSS </b> <br>
+<b>CSS </b>
+<br> <br>
 <i>CHAPTER 4 : </i>
 <br>
 1.Introduction to CSS <br>
