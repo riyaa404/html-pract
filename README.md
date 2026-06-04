@@ -5,8 +5,8 @@ Reference Resource : mdn web docs
 <br> <br>
 --- Concepts Covered ---
 <br> <br>
-<i><b>HTML</b></i> <br><br>
-<u>CHAPTER 1 : </u>
+<b>HTML</b> <br><br>
+<i>CHAPTER 1 : </i>
 <br>
 1.HTML Elements and tags <br>
 2.Paragraph and Heading Element <br>
