@@ -1,6 +1,5 @@
 # web-development
-This is Web Development learning repository.
-<br> <br>
+This is Web Development learning repository.<br>
 Reference Resource : mdn web docs
 <br> <br>
 
