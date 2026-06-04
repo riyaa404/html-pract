@@ -49,7 +49,7 @@ Reference Resource : mdn web docs
 
 <b>CSS</b> <br>
 
-CHAPTER 4 : 
+<i>CHAPTER 4 : </i>
 <br>
 1.Introduction to CSS <br>
 2.Basic CSS Format <br>
@@ -63,5 +63,5 @@ CHAPTER 4 :
 10.Line Height & Letter Spacing <br>
 11.Units in CSS (Pixel) <br>
 12.Font Family <br>
-<br> <br>
+<br>
 
