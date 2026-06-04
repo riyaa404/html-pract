@@ -19,7 +19,7 @@ Reference Resource : mdn web docs
 7.Comments <br>
 8.br Tag <br>
 9.Bold, Itatilc & Underline Tags <br>
-
+<br>
 
 <i> CHAPTER 2 : </i>
 <br>
@@ -31,7 +31,7 @@ Reference Resource : mdn web docs
 6.HTML Entities <br>
 7.Emmets - HTML in speed<br>
 8.Understanding HTML 5 <br>
-
+<br>
 
 <i> CHAPTER 3 : </i>
 <br>
@@ -45,7 +45,7 @@ Reference Resource : mdn web docs
 7.for, id, name and value Attributes <br>
 8.Text Area <br>
 7.Button Element <br>
-
+<br>
 
 <b>CSS</b> <br>
 
