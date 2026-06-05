@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PQ 8 - create registration form with suitable input types</title>
+</head>
+<body>
+    
+    <form>
+        <h1>Registration Form</h1>
+
+        <label for="name" required>Enter your name : </label>
+        <input type="text" name="name" id="name" placeholder="enter your name here">
+        <br><br>
+
+        <label for="age" required>Enter your age : </label>
+        <input type="number" min="1" max="200" name="age" id="age">
+        <br><br>
+
+        <label for="gender" required>Enter your gender : </label>
+        <select name="gender" id="gender" required>
+            <option value="select" disabled selected>Select</option>
+            <option value="female">Female</option>
+            <option value="male">Male</option>
+            <option value="other">Other</option>
+            <option value="prefer_not_to_say">Prefer not to say</option>
+        </select>
+        <br><br>
+        
+        <input type="checkbox" name="terms" id="terms">
+        <label for="terms">Yes, I agree to all terms and services</label>
+        <br><br>
+
+        <button type="submit">Register</button>
+
+    </form>
+
+</body>
+</html>
