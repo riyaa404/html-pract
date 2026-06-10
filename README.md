@@ -3,8 +3,8 @@ This is Web Development learning repository.<br>
 Reference Resource : mdn web docs
 <br>
 
-Other useful websites :<br>
-<a href="https://www.cssfontstack.com/">cssfontstack.com</a>
+Other useful websites :
+<a style="text-decoration: none;" href="https://www.cssfontstack.com/">cssfontstack.com</a>
 
 <br>
 
