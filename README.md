@@ -3,10 +3,11 @@ This is Web Development learning repository.<br>
 Reference Resource : mdn web docs
 <br>
 
-Other useful websites : 
+Other useful websites :
+
 <a href="https://www.cssfontstack.com/">cssfontstack.com</a>
 
-<br> <br>
+<br>
 
 --- Concepts Covered ---
 <br><br>
