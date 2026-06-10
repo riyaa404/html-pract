@@ -3,7 +3,7 @@ This is Web Development learning repository.<br>
 Reference Resource : mdn web docs
 <br>
 
-Other useful websites :
+Other useful websites :<br>
 <a style="text-decoration: none;" href="https://www.cssfontstack.com/">cssfontstack.com</a>
 
 <br>
