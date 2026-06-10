@@ -1,6 +1,11 @@
 # web-development
 This is Web Development learning repository.<br>
 Reference Resource : mdn web docs
+<br>
+
+Other useful websites : 
+<a href="https://www.cssfontstack.com/">cssfontstack.com</a>
+
 <br> <br>
 
 --- Concepts Covered ---
@@ -48,19 +53,19 @@ Reference Resource : mdn web docs
 
 <b>>> CSS </b>
 <br> <br>
+
 <i>CHAPTER 4 : </i>
 <br>
 1.Introduction to CSS <br>
 2.Basic CSS Format <br>
-3.Including CSS <br>
+3.Including CSS (Types to include css script)<br>
 4.Color Property <br>
 5.Background Color Property <br>
-6.Color Systems (Name & RGB) <br>
-7.Hex Codes <br>
-8.Text Align Property <br>
-9.Font Weight & Text Decoration <br>
+6.Color Systems (Name, RGB, Hex codes) <br>
+7.Text Align & Text Decoration Property <br>
+8.Font Size and Weight <br>
+9.Font Style and Family <br>
 10.Line Height & Letter Spacing <br>
 11.Units in CSS (Pixel) <br>
-12.Font Family <br>
 <br> <br>
 
