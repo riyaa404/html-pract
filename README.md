@@ -80,11 +80,11 @@ Other useful websites :<br>
 
 <i>CHAPTER 5 : </i>
 <br>
-1.Types of Selector (7) <br>
-2.Types of Combinator (2)<br>
-3.Pseudo Class <br>
-4.Pseudo Elements <br>
-5.Cascading & Specificity <br>
-6.!important <br>
-7.Inheritance <br>
+1. Types of Selector (7) <br>
+2. Types of Combinator (2)<br>
+3. Pseudo Class <br>
+4. Pseudo Elements <br>
+5. Cascading & Specificity <br>
+6. !important <br>
+7. Inheritance <br>
 <br>
