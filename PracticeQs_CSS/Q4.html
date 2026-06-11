@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Q4 - Facebook page styling</title>
+
+    <!-- style sheet  -->
+    <style>
+
+        /* universal selector */
+        *{
+            font-family: 'Courier New', Courier, monospace;
+        }
+        
+        /* element selector */
+        h1{
+            color: #1b74e4;
+        }
+
+         /* class selector */
+        .userbutton{
+            background-color: aqua;
+        }
+
+         /* id selector */
+        #search_button{
+            background-color: black;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    
+    <h1>Facebook</h1>
+    
+    <button class="userbutton">Log in</button>
+    <button class="userbutton">Register</button>
+
+    <hr>
+
+    <label for="search">Search</label>
+    <textarea name="search" id="search" placeholder="search your friends" rows="1" cols="23"></textarea>
+    
+    <button id="search_button">Search</button>
+</body>
+</html>
