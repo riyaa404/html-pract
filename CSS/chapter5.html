@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 5</title>
+
+    <style>
+        /* Different Pseudo Class */
+
+        #button1:hover{
+            background-color: red;
+            color: white;
+        }
+
+        #button2:active{
+            background-color: red;
+            color: white;
+        }
+
+        input:checked + label{
+            color: red;
+            font-weight: bolder;
+        }
+
+
+        /* Different Pseudo Elements */
+
+        #para1::first-letter {
+            color: rgb(255, 106, 0);
+            font-weight: bolder;
+        }
+
+        #para2::first-line {
+            color: rgb(255, 106, 0);
+            font-weight: bold;
+        }
+
+        #para3::selection{
+            background-color: brown;
+            color: white;
+        }
+
+    </style>
+</head>
+
+<body>
+    <!-- visit practice question 4 to understand different types of Selectors in CSS -->
+
+    <!-- Pseudo Class html code -->
+    <h4><i>Pseudo Class</i></h4>
+
+    <button id="button1">hover</button>
+    <button id="button2">active</button>
+    <br><br>
+
+    <input type="radio" name="gender" id="female">
+    <label for="female">Female</label>
+    <input type="radio" name="gender" id="male">
+    <label for="male">Male</label>
+    <br><br>
+
+    <input type="checkbox" name="vehicle" id="4 wheeler">
+    <label for="4 wheeler">4 wheeler</label>
+    <input type="checkbox" name="vehicle" id="2 wheeler">
+    <label for="2 wheeler">2 wheeler</label>
+    <input type="checkbox" name="vehicle" id="none">
+    <label for="none">None</label>
+    <br><br><br>
+
+
+    <!-- Pseudo Element html code -->
+    <h4><i>Pseudo Elements</i></h4>
+
+    <p id="para1">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, natus nemo ratione ex nesciunt inventore sequi quia soluta. Quas reiciendis error repellendus laudantium repudiandae. Tempora nostrum, blanditiis doloremque ipsum est molestiae pariatur similique dolorum perferendis quia ipsam odio nulla distinctio quis aliquam optio consequuntur neque tempore minima. Minus, commodi provident?
+    </p>
+    <p id="para2">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem animi dignissimos minima suscipit officiis obcaecati cupiditate repellat dolorum temporibus eos, sunt, id enim ullam dolores quam vel odit dolorem numquam. Dolor odit accusamus laborum nobis in placeat eum iusto. Ea, inventore? Cum ab provident accusantium commodi mollitia soluta laboriosam autem.
+    </p>
+    <p id="para3">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem animi dignissimos minima suscipit officiis obcaecati cupiditate repellat dolorum temporibus eos, sunt, id enim ullam dolores quam vel odit dolorem numquam. Dolor odit accusamus laborum nobis in placeat eum iusto. Ea, inventore? Cum ab provident accusantium commodi mollitia soluta laboriosam autem.
+    </p>
+    
+</body>
+</html>
