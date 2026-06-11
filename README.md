@@ -47,16 +47,16 @@ Other useful websites :<br>
 
 <i>CHAPTER 3 : </i>
 <br>
-1.Tables in HTML <br>
-2.Semantics in Tables <br>
-3.Colspan & Rowspan Attributes <br>
-4.Forms in HTML <br>
-5.Input - Form Element <br>
+1. Tables in HTML <br>
+2. Semantics in Tables <br>
+3. Colspan & Rowspan Attributes <br>
+4. Forms in HTML <br>
+5. Input - Form Element <br>
 (Text, Checkbox, Radio, Select, Range, etc.) <br>
-6.Placeholders & Labels <br>
-7.for, id, name and value Attributes <br>
-8.Text Area <br>
-7.Button Element <br>
+6. Placeholders & Labels <br>
+7. for, id, name and value Attributes <br>
+8. Text Area <br>
+9. Button Element <br>
 <br> <br>
 
 
@@ -65,17 +65,17 @@ Other useful websites :<br>
 
 <i>CHAPTER 4 : </i>
 <br>
-1.Introduction to CSS <br>
-2.Basic CSS Format <br>
-3.Including CSS (Types to include css script)<br>
-4.Color Property <br>
-5.Background Color Property <br>
-6.Color Systems (Name, RGB, Hex codes) <br>
-7.Text Align & Text Decoration Property <br>
-8.Font Size and Weight <br>
-9.Font Style and Family <br>
-10.Line Height & Letter Spacing <br>
-11.Units in CSS (Pixel) <br>
+1. Introduction to CSS <br>
+2. Basic CSS Format <br>
+3. Including CSS (Types to include css script)<br>
+4. Color Property <br>
+5. Background Color Property <br>
+6. Color Systems (Name, RGB, Hex codes) <br>
+7. Text Align & Text Decoration Property <br>
+8. Font Size and Weight <br>
+9. Font Style and Family <br>
+10. Line Height & Letter Spacing <br>
+11. Units in CSS (Pixel) <br>
 <br>
 
 <i>CHAPTER 5 : </i>
