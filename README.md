@@ -18,7 +18,7 @@ Other useful websites :<br>
 --- Concepts Covered ---
 <br><br>
 
-<b> > HTML</b> 
+<b> >> HTML</b> 
 <br>
 
 <i>CHAPTER 1 : </i>
@@ -60,7 +60,7 @@ Other useful websites :<br>
 <br> <br>
 
 
-<b> > CSS</b>
+<b> >> CSS</b>
 <br>
 
 <i>CHAPTER 4 : </i>
@@ -76,7 +76,7 @@ Other useful websites :<br>
 9.Font Style and Family <br>
 10.Line Height & Letter Spacing <br>
 11.Units in CSS (Pixel) <br>
-<br> <br>
+<br>
 
 <i>CHAPTER 5 : </i>
 <br>
@@ -87,4 +87,4 @@ Other useful websites :<br>
 5.Cascading & Specificity <br>
 6.!important <br>
 7.Inheritance <br>
-<br> <br>
+<br>
