@@ -5,10 +5,13 @@ Reference Resource : mdn web docs
 
 Other useful websites :<br>
 <a style="text-decoration: none;" href="https://www.cssfontstack.com/">cssfontstack.com</a>
+<br>
 <a style="text-decoration: none;" href="https://coolors.co">coolors.co</a>
+<br>
 <a style="text-decoration: none;" href="https://mycolor.space/">mycolor.space</a>
+<br>
 <a style="text-decoration: none;" href="https://www.canva.com/colors/color-palette-generator/">canva.com/color-palette</a>
-
+<br>
 
 <br>
 
