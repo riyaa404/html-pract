@@ -18,7 +18,8 @@ Other useful websites :<br>
 --- Concepts Covered ---
 <br><br>
 
-<b> >> HTML</b> <br>
+<b> > HTML</b> 
+<br>
 
 <i>CHAPTER 1 : </i>
 <br>
@@ -58,8 +59,9 @@ Other useful websites :<br>
 7.Button Element <br>
 <br> <br>
 
-<b>>> CSS </b>
-<br> <br>
+
+<b> > CSS</b>
+<br>
 
 <i>CHAPTER 4 : </i>
 <br>
@@ -76,3 +78,13 @@ Other useful websites :<br>
 11.Units in CSS (Pixel) <br>
 <br> <br>
 
+<i>CHAPTER 5 : </i>
+<br>
+1.Types of Selector (7) <br>
+2.Types of Combinator (2)<br>
+3.Pseudo Class <br>
+4.Pseudo Elements <br>
+5.Cascading & Specificity <br>
+6.!important <br>
+7.Inheritance <br>
+<br> <br>
