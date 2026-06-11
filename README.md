@@ -23,26 +23,26 @@ Other useful websites :<br>
 
 <i>CHAPTER 1 : </i>
 <br>
-1.HTML Elements and tags <br>
-2.Paragraph and Heading Element <br>
-3.Lists <br>
-4.Attributes <br>
-5.Anchor Element <br>
-6.Image Element <br>
-7.Comments <br>
-8.br Tag <br>
-9.Bold, Itatilc & Underline Tags <br><br>
+1. HTML Elements and tags <br>
+2. Paragraph and Heading Element <br>
+3. Lists <br>
+4. Attributes <br>
+5. Anchor Element <br>
+6. Image Element <br>
+7. Comments <br>
+8. br Tag <br>
+9. Bold, Itatilc & Underline Tags <br><br>
 
 <i>CHAPTER 2 : </i>
 <br>
-1.Inline v/s Block <br>
-2.Div and Span Element <br>
-3.hr Tag <br>
-4.Sub & Sup Tag <br>
-5.Semantic Markup & Tags <br>
-6.HTML Entities <br>
-7.Emmets - HTML in speed<br>
-8.Understanding HTML 5 <br>
+1. Inline v/s Block <br>
+2. Div and Span Element <br>
+3. hr Tag <br>
+4. Sub & Sup Tag <br>
+5. Semantic Markup & Tags <br>
+6. HTML Entities <br>
+7. Emmets - HTML in speed<br>
+8. Understanding HTML 5 <br>
 <br>
 
 <i>CHAPTER 3 : </i>
