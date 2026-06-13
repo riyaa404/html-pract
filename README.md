@@ -88,3 +88,14 @@ Other useful websites :<br>
 6. !important <br>
 7. Inheritance <br>
 <br>
+
+<i>CHAPTER 6 : </i>
+<br>
+1. Box Model <br>
+2. Height and Width <br>
+3. Border and it properties <br>
+4. Padding and Margin property <br>
+5. Cascading & Specificity <br>
+6. !important <br>
+7. Inheritance <br>
+<br>
