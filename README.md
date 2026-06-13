@@ -94,6 +94,6 @@ Other useful websites :<br>
 1. Box Model <br>
 2. Height and Width <br>
 3. Border and it properties (5) <br>
-4. Padding and Margin property (top,botton,left,right) <br>
+4. Padding and Margin property <br>
 5. Display property (block, inline, inline-block) <br>
 <br>
