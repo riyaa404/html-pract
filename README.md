@@ -75,7 +75,6 @@ Other useful websites :<br>
 8. Font Size and Weight <br>
 9. Font Style and Family <br>
 10. Line Height & Letter Spacing <br>
-11. Units in CSS (Pixel) <br>
 <br>
 
 <i>CHAPTER 5 : </i>
@@ -96,4 +95,5 @@ Other useful websites :<br>
 3. Border and it properties (5) <br>
 4. Padding and Margin property <br>
 5. Display property (block, inline, inline-block) <br>
+6. Units in CSS (px, em, rem, %, vh & vw) <br>
 <br>
