@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 6 - Box Model & Display Property</title>
+
+    <style>
+        /* display property */
+
+        .block{
+            display: block;
+            color: white;
+            text-align: center;
+            background-color: palevioletred;
+            border: 3px solid black;
+
+            height: 100px;
+            width: 200px;
+            padding: 50px;
+            margin: 20px;
+        }
+
+        .inline{
+            display: inline;
+            color: white;
+            text-align: center;
+            background-color: palevioletred;
+            border: 3px solid black;
+
+            height: 100px;
+            width: 200px;
+            padding: 50px;
+            margin: 20px;
+        }
+
+        .inline-block{
+            display: inline-block;
+            color: white;
+            text-align: center;
+            background-color: palevioletred;
+            border: 3px solid black;
+
+            height: 100px;
+            width: 200px;
+            padding: 50px;
+            margin: 20px;
+
+        }
+
+        .none{
+            display:none;
+            color: white;
+            text-align: center;
+            background-color: palevioletred;
+            border: 3px solid black;
+
+            height: 100px;
+            width: 200px;
+            padding: 50px;
+            margin: 20px;
+        }
+
+    </style>
+</head>
+
+<body>
+    <!-- visit practice question 6 to understand Box Model and its concepts -->
+
+    <!-- block -->
+    <h4>display: block</h4>
+    <div class="block">container 1</div>
+    <div class="block">container 2</div>
+    <div class="block">container 3</div>
+    <br>
+
+    <!-- inline -->
+    <h4>display: inline</h4>
+    <br> <br> <br>
+    <div class="inline">container 1</div>
+    <div class="inline">container 2</div>
+    <div class="inline">container 3</div>
+    <br> <br> <br> <br> <br> <br>
+
+    <!-- inline-block -->
+    <h4>display: inline-block</h4>
+    <div class="inline-block">container 1</div>
+    <div class="inline-block">container 2</div>
+    <div class="inline-block">container 3</div>
+
+    <!-- none -->
+    <h4>display: none</h4>
+    <div>container 1</div>
+    <div>container 2</div>
+    <div class="none">container 3</div>
+
+</body>
+</html>
