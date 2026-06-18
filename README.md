@@ -101,7 +101,7 @@ Other useful websites :<br>
 <i>CHAPTER 7 : </i>
 <br>
 1. Alpha & Opacity <br>
-2. Transitions in CSS <br>
+2. Transitions <br>
 3. Transform - Rotate, Scale, Translate, Skew <br>
 4. Box Shadow <br>
 5. Background Image <br>
