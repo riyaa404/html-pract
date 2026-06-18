@@ -97,3 +97,14 @@ Other useful websites :<br>
 5. Display property (block, inline, inline-block) <br>
 6. Units in CSS (px, em, rem, %, vh & vw) <br>
 <br>
+
+<i>CHAPTER 7 : </i>
+<br>
+1. Alpha & Opacity <br>
+2. Transitions in CSS <br>
+3. Transform - Rotate, Scale, Translate, Skew <br>
+4. Box Shadow <br>
+5. Background Image <br>
+6. Card Hover Effect <br>
+7. Position Property <br>
+<br>
