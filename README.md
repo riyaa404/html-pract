@@ -108,3 +108,16 @@ Other useful websites :<br>
 6. Card Hover Effect <br>
 7. Position Property <br>
 <br>
+
+<i>CHAPTER 8 : </i>
+<br>
+1. Introduction to Flexbox <br>
+2. Display Flex <br>
+3. Flex Direction <br>
+4. Justify Content <br>
+5. Flex Wrap <br>
+6. Align Items <br>
+7. Align Content <br>
+8. Align Self <br>
+9. Flex Sizing <br>
+<br>
