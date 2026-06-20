@@ -121,3 +121,18 @@ Other useful websites :<br>
 8. Align Self <br>
 9. Flex Sizing <br>
 <br>
+
+<i>CHAPTER 9 : </i>
+<br>
+1. Introduction to Grid <br>
+2. Gird Model <br>
+3. Grid Template <br>
+4. Grid Gaps <br>
+5. Grid Columns <br>
+6. Grid Rows <br>
+7. Grid Properties <br>
+8. Introduction to Animation <br>
+9. % in Animation <br>
+10. Media Queries <br>
+11. z-index <br>
+<br>
