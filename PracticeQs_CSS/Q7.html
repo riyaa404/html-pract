@@ -27,7 +27,7 @@
             left: 100px;
         }
 
-        #left_eye{
+        .eyes{
             background-color: black;
             height: 65px;
             width: 65px;
@@ -37,13 +37,10 @@
             left: 90px;
         }
 
+        #left_eye{
+            left: 90px;
+        }
         #right_eye{
-            background-color: black;
-            height: 65px;
-            width: 65px;
-            border-radius: 50%;
-            position: absolute;
-            top: 100px;
             left: 250px;
         }
     </style>
@@ -52,8 +49,8 @@
 <body>
 
     <div id="face">
-        <div id="left_eye"></div>
-        <div id="right_eye"></div>
+        <div class="eyes" id="left_eye"></div>
+        <div class="eyes" id="right_eye"></div>
         <div id="smile"></div>
     </div>
 
