@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Q7 - design a smile face using position property</title>
+
+    <style>
+        #face{
+            background-color: #ffa600d2;
+            height: 400px;
+            width: 400px;
+            border-radius: 50%;
+            position: absolute;
+            top: 100px;
+            left: 100px;
+        }
+
+        #smile{
+            background-color: brown;
+            width: 200px;
+            height: 75px;
+            border-bottom-left-radius: 50px; 
+            border-bottom-right-radius: 50px; 
+            position: absolute;
+            top: 250px;
+            left: 100px;
+        }
+
+        #left_eye{
+            background-color: black;
+            height: 65px;
+            width: 65px;
+            border-radius: 50%;
+            position: absolute;
+            top: 100px;
+            left: 90px;
+        }
+
+        #right_eye{
+            background-color: black;
+            height: 65px;
+            width: 65px;
+            border-radius: 50%;
+            position: absolute;
+            top: 100px;
+            left: 250px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="face">
+        <div id="left_eye"></div>
+        <div id="right_eye"></div>
+        <div id="smile"></div>
+    </div>
+
+</body>
+</html>
