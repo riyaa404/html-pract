@@ -63,7 +63,7 @@ Other useful websites :<br>
 <b> >> CSS</b>
 <br>
 
-<i>CHAPTER 4 : </i>
+<i>CHAPTER 1 : </i>
 <br>
 1. Introduction to CSS <br>
 2. Basic CSS Format <br>
@@ -77,7 +77,7 @@ Other useful websites :<br>
 10. Line Height & Letter Spacing <br>
 <br>
 
-<i>CHAPTER 5 : </i>
+<i>CHAPTER 2 : </i>
 <br>
 1. Types of Selector (7) <br>
 2. Types of Combinator (2)<br>
@@ -88,7 +88,7 @@ Other useful websites :<br>
 7. Inheritance <br>
 <br>
 
-<i>CHAPTER 6 : </i>
+<i>CHAPTER 3 : </i>
 <br>
 1. Box Model <br>
 2. Height and Width <br>
@@ -98,7 +98,7 @@ Other useful websites :<br>
 6. Units in CSS (px, em, rem, %, vh & vw) <br>
 <br>
 
-<i>CHAPTER 7 : </i>
+<i>CHAPTER 4 : </i>
 <br>
 1. Alpha & Opacity <br>
 2. Transitions <br>
@@ -109,7 +109,7 @@ Other useful websites :<br>
 7. Position Property <br>
 <br>
 
-<i>CHAPTER 8 : </i>
+<i>CHAPTER 5 : </i>
 <br>
 1. Introduction to Flexbox <br>
 2. Display Flex <br>
@@ -122,7 +122,7 @@ Other useful websites :<br>
 9. Flex Sizing <br>
 <br>
 
-<i>CHAPTER 9 : </i>
+<i>CHAPTER 6 : </i>
 <br>
 1. Introduction to Grid <br>
 2. Gird Model <br>
@@ -135,4 +135,22 @@ Other useful websites :<br>
 9. % in Animation <br>
 10. Media Queries <br>
 11. z-index <br>
+<br>
+
+<i>CHAPTER 7 : </i>
+<br>
+1. Introduction to Bootstrap <br>
+2. Container (Layout) <br>
+3. Button (Component) <br>
+4. Badge (Component) <br>
+5. Alert (Component) <br>
+6. Button Group (Component) <br>
+7. Navbar (Component) <br>
+8. Card (Component) <br>
+9. Grid (Layout) <br>
+10. Grid (Vertical Alignment) <br>
+11. Form Controls in Bootstrap <br>
+12. Select in form <br>
+13. Checkbox and Radio in form <br>
+14. Form Layout <br>
 <br>
